@@ -2,7 +2,9 @@
 
 # Where to Eat?
 
-Places at which we like to eat :knife_fork_plate:
+Places at which we like to eat :knife_fork_plate: New places
+
+
 
 This repository has places to eat for the following cities:
 
@@ -14,6 +16,7 @@ This repository has places to eat for the following cities:
 * [Newport Beach, CA](/locations/Newport Beach)
 * [Orlando, FL](/locations/Orlando)
 * [Seattle, WA](/locations/Seattle)
+* [Southlake, WA](/locations/Southlake)
 * [The Woodlands, TX](/locations/The Woodlands)
 * [Vernon Hills, IL](/locations/Vernon Hills)
 
