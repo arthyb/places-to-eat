@@ -4,8 +4,6 @@
 
 Places at which we like to eat :knife_fork_plate: New places
 
-
-
 This repository has places to eat for the following cities:
 
 * [Aurora, CO](/locations/Aurora)
